@@ -1,4 +1,6 @@
 # My First Chrome Extension
+# Job Finder Chrome Extension
+This is an early development stage of a job finder Chrome extension. The extension will use ChatGPT and Google Search to find jobs based on a job description you provide along with your resume.
 
 This is my first Chrome extension. It includes the following files:
 - `icon.png`: The icon for the extension.
